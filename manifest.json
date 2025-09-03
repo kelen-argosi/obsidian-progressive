@@ -1,6 +1,6 @@
 {
-	"id": "sidebar-progress-bar",
-	"name": "Sidebar Task Progress",
+	"id": "progressive",
+	"name": "Progressive",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Persistent bottom-left sidebar progress bar to track daily tasks, or any tasks you want, with customizable options.",
@@ -9,3 +9,4 @@
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
+
