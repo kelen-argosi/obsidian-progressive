@@ -286,7 +286,8 @@ class SidebarProgressBarSettingTab extends obsidian.PluginSettingTab {
             yield this.plugin.updateProgressBar();
         })));
     }
+
 }
 
 module.exports = SidebarProgressBar;
-//# sourceMappingURL=main.js.map
+//# sourceMappingURL=main.js.map 
