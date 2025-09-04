@@ -64,7 +64,7 @@ VaultFolder/.obsidian/plugins/sidebar-progress-bar/
 Reload Obsidian and enable the plugin.
 ## Funding
 
-If you like this plugin, you cannot support its development:
+If you like this plugin, you can support its development by giving feedback.
 
 ---
 ## API Documentation
