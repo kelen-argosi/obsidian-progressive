@@ -1,10 +1,10 @@
 {
-	"id": "progressive",
-	"name": "Progressive",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Persistent bottom-left sidebar progress bar to track daily tasks, or any tasks you want, with customizable options.",
-	"author": "Kelen.Argos",
-	"authorUrl": "https://github.com/kelen-argosi",
-	"isDesktopOnly": false
+  "id": "progressive",
+  "name": "Progressive",
+  "version": "1.4.0",
+  "minAppVersion": "0.15.0",
+  "description": "Sidebar progress bar that tracks tasks across notes (daily, weekly, monthly, or custom). Supports multiple color modes and adapts to your theme.",
+  "author": "kelen-argosi",
+  "authorUrl": "https://github.com/kelen-argosi/obsidian-progressive",
+  "isDesktopOnly": false
 }
